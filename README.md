@@ -1,4 +1,5 @@
-🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
+                                                      🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
+
 🧩 Problem Statement
 
 A growing online learning platform operates a mix of legacy monolithic applications and modern microservices. Currently, its deployments are manual and error-prone, with inconsistent quality checks and limited observability.
