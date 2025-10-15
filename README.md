@@ -1,4 +1,7 @@
 # 🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
+# My Awesome Project 🚀
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 🧩 Problem Statement
 
