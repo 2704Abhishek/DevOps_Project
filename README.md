@@ -30,18 +30,19 @@ Offer full visibility and monitoring across environments
 This project implements an end-to-end DevOps pipeline using modern tools and best practices on AWS Cloud.
 The solution integrates the following components:
 
-    Function	                                                                      Tool/Technology
+  | **Function**                     | **Tool / Technology** |
+|----------------------------------|---------------------|
+| Infrastructure as Code           | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) |
+| Continuous Integration           | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| Code Quality                     | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) |
+| Artifact Repository              | ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-000000?style=for-the-badge&logo=jfrog&logoColor=white) |
+| Containerization                 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| Package Management               | ![Helm](https://img.shields.io/badge/Helm-0F69C1?style=for-the-badge&logo=helm&logoColor=white) |
+| Continuous Deployment (GitOps)   | ![ArgoCD](https://img.shields.io/badge/ArgoCD-FF0033?style=for-the-badge&logo=argocd&logoColor=white) |
+| Container Orchestration          | ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| Monitoring & Visualization       | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| Domain & TLS                     | ![Route53](https://img.shields.io/badge/Amazon%20Route53-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ingress Controller](https://img.shields.io/badge/Ingress-007ACC?style=for-the-badge&logo=kubernetes&logoColor=white) |
 
-Infrastructure as Code	                                                              Terraform
-Continuous Integration	                                                        Jenkins / GitHub Actions
-Code Quality	                                                                        SonarQube
-Artifact Repository	                                                             JFrog Artifactory
-Containerization	                                                                     Docker
-Package Management	                                                                   Helm
-Continuous Deployment (GitOps)	                                                     ArgoCD
-Container Orchestration                                                    	Amazon EKS (Kubernetes)
-Monitoring & Visualization	                                                   Prometheus & Grafana
-Domain & TLS	                                                           Route53 and Ingress Controller
 
 
 🔧 Implementation Flow
