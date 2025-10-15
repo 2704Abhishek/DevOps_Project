@@ -1,6 +1,6 @@
-## 🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
+### 🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
 
-🧩 Problem Statement
+# 🧩 Problem Statement
 
 A growing online learning platform operates a mix of legacy monolithic applications and modern microservices. Currently, its deployments are manual and error-prone, with inconsistent quality checks and limited observability.
 This results in:
@@ -24,7 +24,7 @@ Deploy consistently to Kubernetes clusters
 Offer full visibility and monitoring across environments
 
 
-💡 Solution Overview
+# 💡 Solution Overview
 
 
 This project implements an end-to-end DevOps pipeline using modern tools and best practices on AWS Cloud.
@@ -45,7 +45,7 @@ The solution integrates the following components:
 
 
 
-🔧 Implementation Flow
+# 🔧 Implementation Flow
 
 
 1. Provision Infrastructure: Create AWS resources (VPC, EKS, IAM roles) using Terraform.
@@ -62,7 +62,7 @@ The solution integrates the following components:
 
 
 
-🎯 Aim of the Project
+# 🎯 Aim of the Project
 
 
 To build and demonstrate a complete CI/CD and GitOps-based DevOps ecosystem that accelerates software delivery while ensuring quality, security, and observability in a cloud-native environment.
@@ -78,7 +78,7 @@ Integrate CI/CD and GitOps principles to achieve continuous, error-free delivery
 Develop a resume-ready, portfolio-grade DevOps project showcasing real-world tools and workflows
 
 
-🎓 What me and my Will Learn (Outcomes)
+# 🎓 What me and my Will Learn (Outcomes)
 
 
 By completing this project, you will gain hands-on experience with key DevOps concepts and tools:
@@ -102,13 +102,13 @@ By completing this project, you will gain hands-on experience with key DevOps co
 ✅ Complete understanding of end-to-end DevOps lifecycle in a production-grade environment
 
 
-🏆 Impact & Benefits
+# 🏆 Impact & Benefits
 
 
 For Learners: Gain a portfolio-worthy project demonstrating cloud-native DevOps implementation skills.
 
 For Organizations: Achieve faster, safer, and more reliable releases with improved observability and reduced downtime.
 
-Workflow diagram
+# Workflow diagram
 <img width="1694" height="7510" alt="Untitled diagram-2025-10-15-080545" src="https://github.com/user-attachments/assets/26daaf6a-13df-40a9-8d20-c16948475fe5" />
 
