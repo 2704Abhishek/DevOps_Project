@@ -1,4 +1,4 @@
-                                                      🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
+                                        🚀 Learning Platform’s Speed Up with End-to-End CI/CD and GitOps on AWS
 
 🧩 Problem Statement
 
@@ -30,33 +30,34 @@ Offer full visibility and monitoring across environments
 This project implements an end-to-end DevOps pipeline using modern tools and best practices on AWS Cloud.
 The solution integrates the following components:
 
-Function	Tool/Technology
-Infrastructure as Code	Terraform
-Continuous Integration	Jenkins / GitHub Actions
-Code Quality	SonarQube
-Artifact Repository	JFrog Artifactory
-Containerization	Docker
-Package Management	Helm
-Continuous Deployment (GitOps)	ArgoCD
-Container Orchestration	Amazon EKS (Kubernetes)
-Monitoring & Visualization	Prometheus & Grafana
-Domain & TLS	Route53 and Ingress Controller
+    Function	                                                                      Tool/Technology
+
+Infrastructure as Code	                                                              Terraform
+Continuous Integration	                                                        Jenkins / GitHub Actions
+Code Quality	                                                                        SonarQube
+Artifact Repository	                                                             JFrog Artifactory
+Containerization	                                                                     Docker
+Package Management	                                                                   Helm
+Continuous Deployment (GitOps)	                                                     ArgoCD
+Container Orchestration                                                    	Amazon EKS (Kubernetes)
+Monitoring & Visualization	                                                   Prometheus & Grafana
+Domain & TLS	                                                           Route53 and Ingress Controller
 
 
 🔧 Implementation Flow
 
 
-Provision Infrastructure: Create AWS resources (VPC, EKS, IAM roles) using Terraform.
+1. Provision Infrastructure: Create AWS resources (VPC, EKS, IAM roles) using Terraform.
 
-Setup CI Tools: Configure Jenkins or GitHub Actions for build and test automation.
+2. Setup CI Tools: Configure Jenkins or GitHub Actions for build and test automation.
 
-Enable Quality Gates: Integrate SonarQube for code analysis and enforce quality thresholds.
+3. Enable Quality Gates: Integrate SonarQube for code analysis and enforce quality thresholds.
 
-Containerize and Store: Build Docker images and push them to Artifactory.
+4. Containerize and Store: Build Docker images and push them to Artifactory.
 
-Deploy via GitOps: Use ArgoCD to automatically sync manifests/Helm charts from Git to EKS.
+5. Deploy via GitOps: Use ArgoCD to automatically sync manifests/Helm charts from Git to EKS.
 
-Monitor Everything: Use Prometheus and Grafana dashboards for real-time metrics and alerting.
+6. Monitor Everything: Use Prometheus and Grafana dashboards for real-time metrics and alerting.
 
 
 
