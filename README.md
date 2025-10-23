@@ -80,7 +80,7 @@ Integrate CI/CD and GitOps principles to achieve continuous, error-free delivery
 Develop a resume-ready, portfolio-grade DevOps project showcasing real-world tools and workflows
 
 
-## 🎓 What me and my Will Learn (Outcomes)
+## 🎓 What me and my friends Will Learn from this project (Outcomes)
 
 
 By completing this project, you will gain hands-on experience with key DevOps concepts and tools:
